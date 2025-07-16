@@ -1,3 +1,5 @@
 a= str(input())
 b= str(input())
-print(a+b)
+print("MY NAME IS",a)
+print("MY AGE  IS",b)
+
